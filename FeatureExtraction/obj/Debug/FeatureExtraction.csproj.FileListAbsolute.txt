@@ -1,0 +1,6 @@
+C:\Users\Rahul\Desktop\sample\FeatureExtraction\bin\Debug\FeatureExtraction.dll
+C:\Users\Rahul\Desktop\sample\FeatureExtraction\bin\Debug\FeatureExtraction.pdb
+C:\Users\Rahul\Desktop\sample\FeatureExtraction\obj\Debug\FeatureExtraction.csprojAssemblyReference.cache
+C:\Users\Rahul\Desktop\sample\FeatureExtraction\obj\Debug\FeatureExtraction.csproj.CoreCompileInputs.cache
+C:\Users\Rahul\Desktop\sample\FeatureExtraction\obj\Debug\FeatureExtraction.dll
+C:\Users\Rahul\Desktop\sample\FeatureExtraction\obj\Debug\FeatureExtraction.pdb

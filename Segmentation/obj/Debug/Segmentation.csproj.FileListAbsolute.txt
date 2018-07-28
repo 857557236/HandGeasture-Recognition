@@ -1,0 +1,13 @@
+C:\Users\Rahul\Desktop\sample\Segmentation\obj\Debug\Segmentation.csprojAssemblyReference.cache
+C:\Users\Rahul\Desktop\sample\Segmentation\obj\Debug\Segmentation.csproj.CoreCompileInputs.cache
+C:\Users\Rahul\Desktop\sample\Segmentation\bin\Debug\Segmentation.dll
+C:\Users\Rahul\Desktop\sample\Segmentation\bin\Debug\Segmentation.pdb
+C:\Users\Rahul\Desktop\sample\Segmentation\bin\Debug\AForge.dll
+C:\Users\Rahul\Desktop\sample\Segmentation\bin\Debug\AForge.Imaging.dll
+C:\Users\Rahul\Desktop\sample\Segmentation\bin\Debug\AForge.Math.dll
+C:\Users\Rahul\Desktop\sample\Segmentation\bin\Debug\AForge.xml
+C:\Users\Rahul\Desktop\sample\Segmentation\bin\Debug\AForge.Imaging.xml
+C:\Users\Rahul\Desktop\sample\Segmentation\bin\Debug\AForge.Math.xml
+C:\Users\Rahul\Desktop\sample\Segmentation\obj\Debug\Segmentation.csproj.CopyComplete
+C:\Users\Rahul\Desktop\sample\Segmentation\obj\Debug\Segmentation.dll
+C:\Users\Rahul\Desktop\sample\Segmentation\obj\Debug\Segmentation.pdb
